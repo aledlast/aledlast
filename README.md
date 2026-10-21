@@ -3,7 +3,7 @@
 </br>
 </br>
 </br>
-${\textsf{\color{#73cde7} milo}}$ ‎  ‎ ${\textsf{\color{#8bdff7} cold}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#c6f2ff} miran}}$
+${\textsf{\color{#73cde7} milo}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#8bdff7} cold}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#c6f2ff} miran}}$
 </br>
 hi
 </br>
