@@ -39,5 +39,6 @@ ${\textsf{\color{#8bdff7} links below Ok?}}$
 <a href="https://rentry.co/coldified">main rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://straw.page">strawpage (when i make one)</a>
 </br>
 </br>
+still a wip.
 </p>
 <img src="https://file.garden/ae-FUgfELjoYT3k-/ezgif-81b82456768e744b.png" width="350" align="right" >
