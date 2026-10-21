@@ -1,4 +1,4 @@
-
+<p align="center">
 <img src="https://file.garden/ae-FUgfELjoYT3k-/ezgif-8a577e2c529645c2.png" width="350" align="left" >
 </br>
 </br>
