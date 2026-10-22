@@ -54,7 +54,8 @@ ${\textsf{\color{#88e5ff} hide oopsies! friends/mutual friends are free to borro
 </br>
 </br>
 ${\textsf{\color{#a9ecff} as of right now (as im very on and off) i am active in regiments!}}$
-${\textsf{\color{#a9ecff}i love docks and i love the regi community! you will see me at docks most of the time}}$
+${\textsf{\color{#a9ecff}i love docks and i love the regi community!}}$
+${\textsf{\color{#a9ecff}you will see me at docks most of the time}}$
 </br>
 </br>
 <img src="https://komarev.com/ghpvc/?username=emariyaoi&style=plastic&color=7ae0fc&label=what seed type is this?&base=11337&abbreviated=true" alt="GitHub Profile Views">
