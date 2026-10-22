@@ -49,8 +49,8 @@ ${\textsf{\color{#7ae0fc} c+h is always free, stranger or not!}}$
 ${\textsf{\color{#7ae0fc} just be aware that i may disappear cuz i go on walks sometimes :-)}}$
 </br>
 </br>
-${\textsf{\color{#88e5ff} ngl if ur in my whispers begging for t4 im gonna either ignore or hit u with a}}$
-${\textsf{\color{#88e5ff} 24h hide oopsiesss! friends/mutual friends are free to borrow my supporter any time tho!}}$
+${\textsf{\color{#88e5ff} ngl if ur in my whispers begging for t4 im gonna either ignore or hit u with a 24h}}$
+${\textsf{\color{#88e5ff} hide oopsiesss! friends/mutual friends are free to borrow my supporter any time tho!}}$
 </br>
 </br>
 ${\textsf{\color{#a9ecff} as of right now (as im very on and off) i am active in regiments!}}$
