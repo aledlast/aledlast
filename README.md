@@ -32,30 +32,25 @@ ${\textsf{\color{#5ab6d0} NOT a}}$ ${\textsf{\color{#73cde7} typology pro (esp s
 </br>
 </br>
 </p>
+<img src="https://file.garden/ae-FUgfELjoYT3k-/ezgif-81b82456768e744b.png" width="330" align="right" >
 <p align="center">
 ${\textsf{\color{#8bdff7} links below Ok?}}$
 </br>
 </br>
 <a href="https://rentry.co/coldified">main rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
-</br>
-</br>
-still a wip.
-<tr>
-<td>
-  <details>
-<summary>$\color{#5ab6d0}{\textsf{ㅤㅤㅤㅤㅤpt infoㅤㅤㅤㅤㅤ}}$</summary>
-　　　<br>
-$${\color{#70d1ec} semiofftab half of the time, if i dont respond w2i}$$
-　　<br>
-$${\color{#afecfd} always feel free to c+h! stranger or not! though i do tend to go on walks every now and then so i may disappear!}$$
-    <br>
-$${\color{#70d1ec} i either ignore or 24h hide people who beg for my t4! ooopssiess! if a friend/mutual friend asks i will lend it tho}$$
-　　<br>
-$${\color{#afecfd} as of rn i am active in some regis! i <3 docks and i <3 the community ok?}$$
-    <br>
-
-  </details>
-  </td>
-  </tr>
 </p>
-<img src="https://file.garden/ae-FUgfELjoYT3k-/ezgif-81b82456768e744b.png" width="330" align="right" >
+</br>
+</br>
+${\textsf{\color{#5ab6d0} pt info:}}$
+</br>
+${\textsf{\color{#70d1ec} semi-offtab most of the time! if i dont respond to a msg feel free to whisper me!}}$
+</br>
+</br>
+${\textsf{\color{#7ae0fc} c+h is always free, stranger or not! just be aware that i may disappear cuz i go on walks sometimes :-)}}$
+</br>
+</br>
+${\textsf{\color{#88e5ff} ngl if ur in my whispers begging for t4 im gonna either ignore or hit u with a 24h hide oopsiesss! friends/mutual friends are free to borrow my supporter any time tho!}}$
+</br>
+</br>
+${\textsf{\color{#a9ecff} as of right now (as im very on and off) i am active in regiments! i love docks and i love the regi community! you will see me at docks 99% of the time}}$
+
