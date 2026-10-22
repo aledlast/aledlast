@@ -43,15 +43,15 @@ still a wip.
 <tr>
 <td>
   <details>
-<summary>$\color{#6b334a}{\textsf{ㅤㅤㅤㅤㅤPTㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#5ab6d0}{\textsf{ㅤㅤㅤㅤㅤpt infoㅤㅤㅤㅤㅤ}}$</summary>
 　　　<br>
-$${\color{#717170} hi}$$
+$${\color{#70d1ec} semi-offtab half of the time, if i dont respond w2i :-)}$$
 　　<br>
-$${\color{#4c505f} hi}$$
+$${\color{#afecfd} always feel free to c+h! stranger or not! though i do tend to go on walks every now and then so i may disappear!}$$
     <br>
-$${\color{#717170} hi}$$
+$${\color{#70d1ec} i either ignore/24h hide people who beg for my t4! ooopssiess ^w^ if a friend/mutual friend asks i will lend it 100%}$$
 　　<br>
-$${\color{#4c505f} hi}$$
+$${\color{#afecfd} as of rn (im kind of on and off) i am active in some regis! i <3 docks and i <3 the community ok?}$$
     <br>
 
   </details>
