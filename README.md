@@ -38,7 +38,6 @@ ${\textsf{\color{#8bdff7} links below Ok?}}$
 </br>
 </br>
 <a href="https://rentry.co/coldified">main rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
-</p>
 </br>
 </br>
 ${\textsf{\color{#5ab6d0} pt info:}}$
