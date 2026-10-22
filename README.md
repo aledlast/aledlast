@@ -45,13 +45,13 @@ still a wip.
   <details>
 <summary>$\color{#6b334a}{\textsf{ㅤㅤㅤㅤㅤPTㅤInfoㅤㅤㅤㅤㅤ}}$</summary>
 　　　<br>
-$${\color{#717170} I'mㅤusuallyㅤofftab, ㅤpleaseㅤwhisperㅤtoㅤinteract.}$$
+$${\color{#717170} hi}$$
 　　<br>
-$${\color{#4c505f} C+HㅤisㅤalwaysㅤencouragedㅤunlessㅤI'mㅤonㅤDNI.}$$
+$${\color{#4c505f} hi}$$
     <br>
-$${\color{#717170} Pleaseㅤdon'tㅤcopyㅤmyㅤskins; ㅤinspoㅤisㅤokay.}$$
+$${\color{#717170} hi}$$
 　　<br>
-$${\color{#4c505f} Usuallyㅤsittingㅤbyㅤdocks, ㅤlibrary, ㅤorㅤatㅤaㅤregi...}$$
+$${\color{#4c505f} hi}$$
     <br>
 
   </details>
