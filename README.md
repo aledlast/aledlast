@@ -1,4 +1,23 @@
 <p align="center">
 <img src="https://file.garden/ae-FUgfELjoYT3k-/suzie" width="380" align="left" >
 </br>
-${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} cold}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ff9cae} miran}}$
+</br>
+${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffda99} miran}}$
+</br>
+ ${\textsf{\color{#ffc999} nb}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffc999} tmasc}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffc999} gay}}$
+ </br>
+${\textsf{\color{#ffb39c} sp/so}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} 639}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} 6w7}}$
+ </br>
+${\textsf{\color{#ffa0a0} 19 yo}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffa0a0} he/him}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffa0a0} (or they)}}$
+  </br>
+   </br>
+${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}$ ${\textsf{\color{#ffa0a0} right now :-3}}$
+</br>
+${\textsf{\color{#ffda99} guilty}}$ ${\textsf{\color{#ffc999} player x quincy}}$ ${\textsf{\color{#ffb39c} enjoyer}}$ ${\textsf{\color{#ffa0a0} (but i also am a multishipper)}}$
+</br>
+${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffc999} bandori, daybreak 2,}}$ ${\textsf{\color{#ffb39c} hello charlotte,}}$ ${\textsf{\color{#ffa0a0} and mcsr/mc content as a whole}}$
+</br> 
+${\textsf{\color{#ffda99} kyleiji / kyeona (db2)}}$ ${\textsf{\color{#ffc999} emari (db2)}}$ ${\textsf{\color{#ffb39c} freilotte (hc)}}$ ${\textsf{\color{#ffa0a0} qp vincharles (hc) <33}}$
+  </br>
+   </br>
+   hi
