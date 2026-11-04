@@ -8,7 +8,7 @@ ${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}
  </br>
 ${\textsf{\color{#ffb39c} sp/so}}$ ‎  ‎  ${\textsf{\color{#ffb39c} 639}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} 6w7}}$
  </br>
-${\textsf{\color{#ffa0a0} 19 yo}}$ ‎  ‎  ‎ ‎ ${\textsf{\color{#ffa0a0} he/him}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffa0a0} (or they)}}$
+${\textsf{\color{#ffa0a0} 19 yo}}$ ‎  ‎‎ ‎ ${\textsf{\color{#ffa0a0} he/him}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffa0a0} (or they)}}$
   </br>
    </br>
 ${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}$ ${\textsf{\color{#ffa0a0} right now :-3}}$
