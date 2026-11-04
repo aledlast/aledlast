@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://file.garden/ae-FUgfELjoYT3k-/suzie" width="480" align="left" >
+<img src="https://file.garden/ae-FUgfELjoYT3k-/suzie" width="450" align="left" >
 </br>
 </br>
 ${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎   ‎‎ ${\textsf{\color{#ffda99} miran}}$
