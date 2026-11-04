@@ -15,13 +15,9 @@ ${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}
 </br>
 ${\textsf{\color{#ffda99} guilty}}$ ${\textsf{\color{#ffc999} player x quincy}}$ ${\textsf{\color{#ffb39c} enjoyer}}$ ${\textsf{\color{#ffa0a0} (but i also am a multishipper)}}$
 </br>
-${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffc999} bandori, daybreak 2,}}$ 
-</br>
-${\textsf{\color{#ffb39c} hello charlotte,}}$ ${\textsf{\color{#ffa0a0} and mcsr/mc content as a whole}}$
+${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffda99} bandori, daybreak 2,}}$ ${\textsf{\color{#ffc999} hello charlotte,}}$ ${\textsf{\color{#ffc999} and mcsr/mc content as a whole}}$
 </br> 
-${\textsf{\color{#ffda99} kyleiji / kyeona (db2)}}$ ${\textsf{\color{#ffc999} emari (db2)}}$ 
-</br>
-${\textsf{\color{#ffb39c} freilotte (hc)}}$ ${\textsf{\color{#ffa0a0} qp vincharles (hc) <33}}$
+${\textsf{\color{#ffb39c} kyleiji / kyeona (db2)}}$ ${\textsf{\color{#ffb39c} emari (db2)}}$ ${\textsf{\color{#ffa0a0} freilotte (hc)}}$ ${\textsf{\color{#ffa0a0} qp vincharles (hc) <33}}$
   </br>
    </br>
 </p>
