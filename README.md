@@ -2,7 +2,7 @@
 <img src="https://file.garden/ae-FUgfELjoYT3k-/suzie" width="380" align="left" >
 </br>
 </br>
-${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎  ‎‎ ${\textsf{\color{#ffda99} miran}}$
+${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎   ‎‎ ${\textsf{\color{#ffda99} miran}}$
 </br>
  ${\textsf{\color{#ffc999} nb}}$ ‎  ‎  ‎${\textsf{\color{#ffc999} tmasc}}$ ‎  ‎ ‎ ${\textsf{\color{#ffc999} gay}}$
  </br>
