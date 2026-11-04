@@ -13,7 +13,7 @@ ${\textsf{\color{#ffa0a0} 19 yo}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#ffa
    </br>
 ${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}$ ${\textsf{\color{#ffa0a0} right now :-3}}$
 </br>
-${\textsf{\color{#ffda99} guilty}}$ ${\textsf{\color{#ffc999} player x quincy}}$ ${\textsf{\color{#ffb39c} enjoyer}}$ ${\textsf{\color{#ffa0a0} (but i also am a multishipper)}}$
+${\textsf{\color{#ffda99} guilty}}$ ${\textsf{\color{#ffc999} player x quincy}}$ ${\textsf{\color{#ffb39c} enjoyer}}$
 </br>
 </br>
 ${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffda99} bandori, daybreak 2,}}$ ${\textsf{\color{#ffc999} hello charlotte,}}$ ${\textsf{\color{#ffc999} and mcsr/mc content as a whole}}$
