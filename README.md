@@ -4,7 +4,7 @@
 </br>
 ${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎   ‎‎ ${\textsf{\color{#ffda99} miran}}$
 </br>
- ${\textsf{\color{#ffc999} nb}}$ ‎  ‎  ‎ ${\textsf{\color{#ffc999} nb}}$ ‎  ‎ ‎ ${\textsf{\color{#ffc999} gay}}$
+ ${\textsf{\color{#ffc999} nb}}$ ‎  ‎  ‎ ${\textsf{\color{#ffc999} tmasc}}$ ‎  ‎ ‎ ${\textsf{\color{#ffc999} gay}}$
  </br>
 ${\textsf{\color{#ffb39c} sp/so}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} 639}}$ ‎  ‎  ‎  ‎ ${\textsf{\color{#ffb39c} 6w7}}$
  </br>
