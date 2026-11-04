@@ -22,4 +22,5 @@ ${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffda99} bandori, day
 ${\textsf{\color{#ffb39c} kyleiji / kyeona (db2)}}$ ${\textsf{\color{#ffb39c} emari (db2)}}$ ${\textsf{\color{#ffa0a0} freilotte (hc)}}$ ${\textsf{\color{#ffa0a0} qp vincharles (hc) <33}}$
   </br>
    </br>
+ <a href="https://rentry.co/1lluminos">rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
 </p>
