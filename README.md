@@ -11,15 +11,16 @@ ${\textsf{\color{#4e97e0} sp/so}}$ ‎ ‎  ‎‎  ${\textsf{\color{#4e97e0} 63
 ${\textsf{\color{#4780d9} 19 yo}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#4780d9} he/him}}$ ‎  ‎ ‎ ${\textsf{\color{#4780d9} (or they)}}$
   </br>
    </br>
-${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}$ ${\textsf{\color{#ffa0a0} right now :-3}}$
+${\textsf{\color{#65dcf3} my fandoms}}$ ${\textsf{\color{#59b9e9} r kinda}}$ ${\textsf{\color{#4e97e0} a mess right now}}$ ${\textsf{\color{#4780d9} :'3}}$
 </br>
-${\textsf{\color{#ffda99} guilty}}$ ${\textsf{\color{#ffc999} player x quincy}}$ ${\textsf{\color{#ffb39c} enjoyer}}$
+${\textsf{\color{#65dcf3} i like:}}$ ${\textsf{\color{#65dcf3} bandori, daybreak 2, object cringe,}}$ ${\textsf{\color{#59b9e9} hello charlotte, doodle world,}}$ ${\textsf{\color{#59b9e9} and mcsr/mc content as a whole}}$
 </br>
 </br>
-${\textsf{\color{#ffda99} i also like:}}$ ${\textsf{\color{#ffda99} bandori, daybreak 2,}}$ ${\textsf{\color{#ffc999} hello charlotte,}}$ ${\textsf{\color{#ffc999} and mcsr/mc content as a whole}}$
+</br>
+${\textsf{\color{#4e97e0} c+h is free for everyone,}}$ ${\textsf{\color{#4780d9} though beware i may get up/move around a lot}}$
 </br> 
 </br>
-${\textsf{\color{#ffb39c} kyleiji / kyeona (db2)}}$ ${\textsf{\color{#ffb39c} emari (db2)}}$ ${\textsf{\color{#ffa0a0} freilotte (hc)}}$ ${\textsf{\color{#ffa0a0} qp vincharles (hc) <33}}$
+${\textsf{\color{#65dcf3} u can find me at docks/bakery,}}$ ${\textsf{\color{#59b9e9} i also like to play fts/fsr sometimes :-3}}$
   </br>
    </br>
  <a href="https://rentry.co/1lluminos">rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
