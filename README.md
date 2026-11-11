@@ -17,11 +17,12 @@ ${\textsf{\color{#65dcf3} i like:}}$ ${\textsf{\color{#65dcf3} bandori, daybreak
 </br>
 </br>
 </br>
-${\textsf{\color{#4e97e0} c+h is free for everyone,}}$ ${\textsf{\color{#4780d9} though beware i may get up/move around a lot}}$
+${\textsf{\color{#65dcf3} c+h is free for everyone,}}$ ${\textsf{\color{#65dcf3} though beware i may get up/move around a lot}}$
 </br> 
 </br>
-${\textsf{\color{#65dcf3} u can find me at docks/bakery,}}$ ${\textsf{\color{#59b9e9} i also like to play fts/fsr sometimes :-3}}$
+${\textsf{\color{#59b9e9} u can find me at docks/bakery,}}$ ${\textsf{\color{#59b9e9} i also like to play fts/fsr sometimes :-3}}$
   </br>
    </br>
+${\textsf{\color{#4e97e0} typically semi-afk/semi-on tab,}}$ ${\textsf{\color{#4e97e0} if i dont respond to u, feel free to whisper}}$
  <a href="https://rentry.co/1lluminos">rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
 </p>
