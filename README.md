@@ -10,7 +10,6 @@ ${\textsf{\color{#4e97e0} sp/so}}$ ‎ ‎  ‎‎  ${\textsf{\color{#4e97e0} 63
  </br>
 ${\textsf{\color{#4780d9} 19 yo}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#4780d9} he/him}}$ ‎  ‎ ‎ ${\textsf{\color{#4780d9} (or they)}}$
   </br>
-  ︶⊹︶︶୨୧︶︶⊹︶
    </br>
 ${\textsf{\color{#65dcf3} my fandoms}}$ ${\textsf{\color{#59b9e9} r kinda}}$ ${\textsf{\color{#4e97e0} a mess right now}}$ ${\textsf{\color{#4780d9} :'3}}$
 </br>
@@ -20,6 +19,7 @@ ${\textsf{\color{#65dcf3} i like:}}$ ${\textsf{\color{#65dcf3} bandori, daybreak
 ${\textsf{\color{#65dcf3} some pt info:}}$
 </br>
 ${\textsf{\color{#65dcf3} c+h is free for everyone,}}$ ${\textsf{\color{#65dcf3} though beware i may get up/move around a lot}}$
+</br>
 </br>
 ${\textsf{\color{#59b9e9} u can find me at docks or bakery,}}$ ${\textsf{\color{#59b9e9} i also like to play fts/fsr sometimes :-3}}$
   </br>
