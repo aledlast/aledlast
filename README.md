@@ -26,5 +26,8 @@ ${\textsf{\color{#59b9e9} u can find me at docks/bakery,}}$ ${\textsf{\color{#59
 ${\textsf{\color{#4e97e0} typically semi-afk/semi-on tab,}}$ ${\textsf{\color{#4e97e0} if i dont respond to u, feel free to whisper}}$
 </br> 
 </br>
+${\textsf{\color{#4780d9} i prefer to speak in public chat tho >_>}}$
+</br> 
+</br>
  <a href="https://rentry.co/1lluminos">rentry</a>  ‎  ‎  ‎   <a href="https://emari.atabook.org/">atabook</a>   ‎  ‎  ‎   <a href="https://pronouns.cc/@emari">prns.cc</a>
 </p>
