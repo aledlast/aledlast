@@ -20,7 +20,6 @@ ${\textsf{\color{#65dcf3} i like:}}$ ${\textsf{\color{#65dcf3} bandori, daybreak
 ${\textsf{\color{#65dcf3} some pt info:}}$
 </br>
 ${\textsf{\color{#65dcf3} c+h is free for everyone,}}$ ${\textsf{\color{#65dcf3} though beware i may get up/move around a lot}}$
-</br> 
 </br>
 ${\textsf{\color{#59b9e9} u can find me at docks or bakery,}}$ ${\textsf{\color{#59b9e9} i also like to play fts/fsr sometimes :-3}}$
   </br>
