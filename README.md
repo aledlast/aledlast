@@ -2,13 +2,13 @@
 <img src="https://file.garden/ae-FUgfELjoYT3k-/hicold" width="300" align="left" >
 </br>
 </br>
-${\textsf{\color{#ffda99} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#ffda99} cold}}$ ‎  ‎   ‎‎ ${\textsf{\color{#ffda99} miran}}$
+${\textsf{\color{#65dcf3} milo}}$ ‎  ‎  ‎ ${\textsf{\color{#65dcf3} cold}}$ ‎  ‎   ‎‎ ${\textsf{\color{#65dcf3} miran}}$
 </br>
- ${\textsf{\color{#ffc999} nb}}$ ‎  ‎  ‎ ${\textsf{\color{#ffc999} tmasc}}$ ‎  ‎ ‎ ${\textsf{\color{#ffc999} gay}}$
+ ${\textsf{\color{#59b9e9} nb}}$ ‎  ‎  ‎ ${\textsf{\color{#59b9e9} tmasc}}$ ‎  ‎ ‎ ${\textsf{\color{#59b9e9} gay}}$
  </br>
-${\textsf{\color{#ffb39c} sp/so}}$ ‎ ‎  ‎‎  ${\textsf{\color{#ffb39c} 639}}$ ‎  ‎  ‎‎ ‎   ‎ ${\textsf{\color{#ffb39c} 6w7}}$
+${\textsf{\color{#4e97e0} sp/so}}$ ‎ ‎  ‎‎  ${\textsf{\color{#4e97e0} 639}}$ ‎  ‎  ‎‎ ‎   ‎ ${\textsf{\color{#4e97e0} 6w7}}$
  </br>
-${\textsf{\color{#ffa0a0} 19 yo}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#ffa0a0} he/him}}$ ‎  ‎ ‎ ${\textsf{\color{#ffa0a0} (or they)}}$
+${\textsf{\color{#4780d9} 19 yo}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#4780d9} he/him}}$ ‎  ‎ ‎ ${\textsf{\color{#4780d9} (or they)}}$
   </br>
    </br>
 ${\textsf{\color{#ffc999} super into}}$ ${\textsf{\color{#ffb39c} doodle world}}$ ${\textsf{\color{#ffa0a0} right now :-3}}$
