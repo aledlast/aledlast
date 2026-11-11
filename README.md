@@ -16,6 +16,7 @@ ${\textsf{\color{#65dcf3} my fandoms}}$ ${\textsf{\color{#59b9e9} r kinda}}$ ${\
 ${\textsf{\color{#65dcf3} i like:}}$ ${\textsf{\color{#65dcf3} bandori, daybreak 2, object cringe,}}$ ${\textsf{\color{#59b9e9} hello charlotte, doodle world,}}$ ${\textsf{\color{#59b9e9} and mcsr/mc content as a whole}}$
 </br>
 </br>
+${\textsf{\color{#65dcf3} some pt info:}}$
 </br>
 ${\textsf{\color{#65dcf3} c+h is free for everyone,}}$ ${\textsf{\color{#65dcf3} though beware i may get up/move around a lot}}$
 </br> 
